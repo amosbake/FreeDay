@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "223789759638",
+    "firebase_url": "https://freeday-8f957.firebaseio.com",
+    "project_id": "freeday-8f957",
+    "storage_bucket": "freeday-8f957.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223789759638:android:b3a9f3bea540f052",
+        "android_client_info": {
+          "package_name": "mopel.io.freeday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223789759638-9csi74bv74ak7nvtabepfuhhutkg2k2s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mopel.io.freeday",
+            "certificate_hash": "a55b97f456f9221cf05ac46540b029f07120f044"
+          }
+        },
+        {
+          "client_id": "223789759638-mr4kpfpvghjsqfhhq9q2k22rnqh5jruf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMnSrQ_7Gzpvfsjgeg04MIpRRT3Yhq10c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223789759638-mr4kpfpvghjsqfhhq9q2k22rnqh5jruf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
