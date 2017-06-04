@@ -2,6 +2,7 @@ package mopel.io.freeday
 
 import android.app.Application
 import mopel.io.freeday.helper.Prefs
+import mopel.io.freeday.model.Avatar
 
 
 /**

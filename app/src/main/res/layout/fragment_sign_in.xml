@@ -118,7 +118,7 @@
       app:layout_constraintBottom_toBottomOf="parent"
       android:layout_marginEnd="@dimen/spacing_double"
       android:layout_marginBottom="@dimen/spacing_double"
-      android:src="@android:drawable/stat_notify_chat"
+      android:src="@drawable/ic_check_black"
       app:backgroundTint="@color/colorPrimary"/>
 
 </android.support.constraint.ConstraintLayout>
